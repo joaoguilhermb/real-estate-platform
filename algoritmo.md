@@ -4,6 +4,8 @@ Esse documento descreve o funcionamento lógico da plataforma de imóveis.
 ## Página principal
 - O usuário acessa a pagina inicial dos imóveis
 - Na página vai conter o filtro disponível para filtragem dos imóveis;
+  - Nesse filtro vai ter as opções pra escolher bairros, cidades, estados. Por enquanto.
+  - E um botão "Pesquisar" para direcionar à página de busca avançada.
 - Abaixo, na mesma pagina, terá os imóveis em destaque exibidos em card, formato carrossel.
 - O usuário poderá escolher o imóvel de sua preferência e clicar para ser levado à pagina de detalhes do imóvel.
 
@@ -12,7 +14,7 @@ Esse documento descreve o funcionamento lógico da plataforma de imóveis.
 - O sistema envia o ID do imóvel para a página de detalhes
 - A página consulta o banco de dados
 - Nela conterá mais informações sobre o imóvel, como:
-  título, preço, n° de quartos, banheiros, garagem, descrição, localização.
+  - título, preço, n° de quartos, banheiros, garagem, descrição, localização.
 - E um botão "Tenho interesse" que direcionará ao contato do corretor. 
 
   

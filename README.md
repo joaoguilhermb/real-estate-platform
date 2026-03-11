@@ -3,8 +3,8 @@ Real estate listing platform built with FlutterFlow and Supabase.
 = Projeto de plataforma para listagem de imóveis.
 
 ## Tecnologias utilizadas
-FlutterFlow
-Supabase
+  - FlutterFlow
+  - Supabase
 
 ## Funcionalidades
 - Listagem de imóveis

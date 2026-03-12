@@ -1,4 +1,4 @@
-# real-estate-platform
+# real-estate-platform-test
 Real estate listing platform built with FlutterFlow and Supabase.
 = Projeto de plataforma para listagem de imóveis.
 

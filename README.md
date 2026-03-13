@@ -1,6 +1,9 @@
 # real-estate-platform-test
 Real estate listing platform built with FlutterFlow and Supabase.
-= Projeto de plataforma para listagem de imóveis.
+-
+Plataforma para visualização de imóveis e geração de leads para corretores
+  - Acesse o site: https://imoveis-portal-test.flutterflow.app/
+    - O site foi desenvolvido para mobile (formato vertical) então se abrir em desktop ele pode fical mal formatado.
 
 ## Tecnologias utilizadas
   - FlutterFlow
@@ -17,4 +20,4 @@ Projeto criado para estudo de desenvolvimento de Website ou App em No-Code, e in
 
 ## Autor
 - João Guilherme Barros de Lima
-- Estudante de Ciência da Computação - 2° semestre.
+  - Estudante de Ciência da Computação - 2° semestre.

@@ -1,0 +1,14 @@
+# FlutterFlow exported code (if you download the Flutter project)
+/flutter-export/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
